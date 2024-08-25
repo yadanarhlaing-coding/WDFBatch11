@@ -1,0 +1,29 @@
+.bdstyle5{
+	border: inset;
+
+}
+.bdstyle6{
+	border: outset;
+
+}  
+
+.borderstyle{
+
+	width: 100px;
+	height: 200px;
+
+	background-color: orange;
+					lt	rt		rb	bl
+/*	border-radius: 10px 20px 30px 40px;*/
+/*	border-radius: 50%;*/
+	border: 5px dashed red;
+
+}
+ul{
+/*	list-style-type: none;*/
+/*	list-style: none;*/
+}
+li{
+/*	list-style-type: none;*/
+	list-style: none ;
+}
